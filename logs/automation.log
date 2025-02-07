@@ -213,3 +213,21 @@
 11:23:01.563 [main] INFO  testCases.TC002_LoginTest - ******Started********
 11:23:02.444 [main] INFO  testCases.TC002_LoginTest - Clicked Login Page
 11:23:04.931 [main] INFO  testCases.TC002_LoginTest - ******Finished********
+10:41:20.840 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Started**************
+10:41:20.995 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Link..
+10:41:21.683 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration..
+10:41:22.262 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered valid credentials..
+10:41:23.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+10:41:23.103 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Finished**************
+10:41:28.103 [main] INFO  testCases.TC002_LoginTest - ******Started********
+10:41:28.548 [main] INFO  testCases.TC002_LoginTest - Clicked Login Page
+10:41:29.595 [main] INFO  testCases.TC002_LoginTest - ******Finished********
+10:42:55.650 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Started**************
+10:42:55.834 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Link..
+10:42:56.447 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration..
+10:42:57.219 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered valid credentials..
+10:42:57.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+10:42:57.946 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Finished**************
+10:43:02.955 [main] INFO  testCases.TC002_LoginTest - ******Started********
+10:43:03.356 [main] INFO  testCases.TC002_LoginTest - Clicked Login Page
+10:43:05.469 [main] INFO  testCases.TC002_LoginTest - ******Finished********
